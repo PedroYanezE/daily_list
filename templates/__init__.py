@@ -1,0 +1,6 @@
+from .migration_templates import INSERT_PERFORMED_MIGRATION, NEW_MIGRATION_TEMPLATE
+
+__all__ = [
+    "INSERT_PERFORMED_MIGRATION",
+    "NEW_MIGRATION_TEMPLATE"
+]
